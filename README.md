@@ -13,7 +13,7 @@ This repository builds upon the foundational work from [Reflexion](https://githu
 ### 1. Clone this repository
 
 ```sh
-git clone https://github.com/yourusername/soa.git
+git clone https://github.com/tsukushiAI/self-organized-agent.git
 cd soa
 ```
 
